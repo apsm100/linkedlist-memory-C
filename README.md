@@ -1,5 +1,5 @@
 # Linked List Memory Simulator in C
-Simulates OS memory with bases and nodes. Simulates merging of free blocks and compaction. 
+Simulates OS memory with bases and nodes with functions to merge free and compact memory blocks. 
 
 # Output
 ```
